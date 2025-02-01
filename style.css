@@ -1,0 +1,119 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f7f6;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Container */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Header */
+header {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.heading {
+    font-size: 36px;
+    color: #2c3e50;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+/* Button Container */
+.button-container {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    margin-bottom: 40px;
+}
+
+.habit-button {
+    background-color: #2980b9;
+    color: white;
+    padding: 15px 30px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.habit-button:hover {
+    background-color: #3498db;
+}
+
+/* Features Section */
+.features-section {
+    background-color: #ecf0f1;
+    padding: 30px;
+    border-radius: 10px;
+    margin-bottom: 40px;
+}
+
+.features-section h2 {
+    font-size: 28px;
+    color: #2c3e50;
+    margin-bottom: 15px;
+}
+
+.features {
+    list-style-type: disc;
+    margin-left: 20px;
+    font-size: 18px;
+}
+
+/* Languages Section */
+.languages-section {
+    background-color: #ecf0f1;
+    padding: 30px;
+    border-radius: 10px;
+    margin-bottom: 40px;
+}
+
+.languages-section h2 {
+    font-size: 28px;
+    color: #2c3e50;
+    margin-bottom: 15px;
+}
+
+.languages {
+    list-style-type: none;
+    padding: 0;
+    font-size: 18px;
+}
+
+.languages li {
+    padding: 5px 0;
+    color: #2980b9;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .button-container {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .habit-button {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+}
+{.preloader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.8) url('https://i.gifer.com/7FsU.gif') no-repeat center center;
+    background-size: 50px;
+    z-index: 9999;}
+.
