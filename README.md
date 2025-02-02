@@ -2,98 +2,70 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [dhilnalibafidha]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [dhilna] - [PPTM arts and science College]
+- Member 2: [liba] - [PPTM arts and science College]
+- Member 3: [fidha] - [PPTM arts and science College]
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+We are introducing a Habit Tracker poject.The HABIT TRACKER is a simple and practical tool designed to help people build good habits and stay consistent with their goals.Whether its exercising,diet plan and meditation ,this tracker makes it easy to stay on track
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+This project aims to solve that problem by providing an easy-to-use Habit Tracker that help users stay consistent,track their daily progress,and stay motivated.By Habit Tracking simple and engaging,this tool will help users build better routines and achieve their personal goals 
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+The tracker will allow users to:
+-Log their habits daily
+-Set reminders
+-Track progress over time
+-stay motivated
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- html
+  css
+  javascript
+- Tools- chatgpt 4o
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
-For Software:
+we are created an web application using html,css,js 
+
 # Installation
-[commands]
+dosnt require installetion
 
 # Run
-[commands]
+Open index.html in any latest browser
 
 ### Project Documentation
 For Software:
+HTML,CSS,JAVA SCRIPT
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+# Screenshots (Add at least 3)s
+![dhilna](screenshot/s1.png)
+home page
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![liba](screenshot/s2.png)
+exercise page
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![fidha](screenshot/s3.png)
+diet plan page
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+![naza](screenshot/s4.png)
+meditation page
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Team](Add photo of your team here)
-
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- dhilna: coding
+- liba: designing
+- fidha: problrm solving
 
 ---
 Made with ❤️ at TinkerHub
